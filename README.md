@@ -17,3 +17,5 @@ You can click the Preview link to take a look at your changes.
       ASUS ROG STRIX X570-f
       AMD Ryzen 5 5600X
       G.SKILL 16Go de ram
+- 🗣️ Discord: 
+      https://discord.gg/kBH52rF9Gg
