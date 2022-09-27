@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
       AMD Ryzen 5 5600X
       G.SKILL 16Gb of ram
 - 💻 The config of my Laptop (2023):
+      Lenovo IdeaPad 3 14ALC6
       AMD Ryzen 7 5700U
       8Gb of ram
 - 🗣️ Discord: 
