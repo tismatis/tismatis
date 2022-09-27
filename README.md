@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I'm @GameursProduction
 - 📚 I code in:
-      HTML, CSS, PHP, JS
-      Java, C#, VB, Lua
+      HTML‚ CSS‚ JS‚ PHP‚ VB․NET‚ VB․SCRIPT‚ C＃‚ Java‚ Lua
 - 🖥️ The config of my Computer (2022):
       ASUS ROG STRIX X570-f
       AMD Ryzen 5 5600X
