@@ -42,5 +42,5 @@ You can click the Preview link to take a look at your changes.
       8Gb of ram
 - 🗣️ Discord: 
       https://discord.gg/kBH52rF9Gg
-- 📺 Twitch:
-      https://twitch.tv/tismaproduction
+<!--- 📺 Twitch:
+      https://twitch.tv/tismaproduction-->
