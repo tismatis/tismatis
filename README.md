@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
       AMD Ryzen 5 5600X
       ~
       G.SKILL 32Gb of ram
+      ~
+      GTX 1060 6Gb
 - 💻 The config of my Laptop (2023):
       Lenovo IdeaPad 3 14ALC6
       ~
@@ -42,5 +44,7 @@ You can click the Preview link to take a look at your changes.
       8Gb of ram
 - 🗣️ Discord: 
       https://discord.gg/kBH52rF9Gg
+- ✉️ Telegram:
+      Tismatis44
 <!--- 📺 Twitch:
       https://twitch.tv/tismaproduction-->
