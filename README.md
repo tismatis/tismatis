@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
       Java
       ~
       Lua
+      ~
+      Python
 - 🖥️ The config of my Computer (2022-2023):
       ASUS ROG STRIX X570-f
       ~
