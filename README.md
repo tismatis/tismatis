@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
       ~
       AMD Ryzen 7 5700U
       ~
-      8Gb of ram
+      20Gb of ram (2Gb reserved for apu)
 - 🗣️ Discord: 
       https://discord.gg/kBH52rF9Gg
 - ✉️ Telegram:
