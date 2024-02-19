@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
       ~
       G.SKILL 32Gb of ram
       ~
-      GTX 1060 6Gb
+      Gigabyte RX 7800 XT
 - 💻 The config of my Laptop (2023):
       Lenovo IdeaPad 3 14ALC6
       ~
