@@ -19,17 +19,11 @@ You can click the Preview link to take a look at your changes.
       ~
       PHP
       ~
-      VB․NET
-      ~
-      VB․SCRIPT
-      ~
       C＃
       ~
       Java
       ~
       Lua
-      ~
-      Python
 - 🖥️ The config of my Computer (2022-2023):
       ASUS ROG STRIX X570-f
       ~
@@ -48,5 +42,9 @@ You can click the Preview link to take a look at your changes.
       https://discord.gg/kBH52rF9Gg
 - ✉️ Telegram:
       Tismatis44
+- 📁 Where all my projects are:
+      https://github.com/Matis-Projects
+- 🌍 My website (will be updated in not too long ^^):
+      https://tismatis.github.io
 <!--- 📺 Twitch:
       https://twitch.tv/tismaproduction-->
