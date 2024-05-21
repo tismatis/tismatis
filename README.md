@@ -32,7 +32,13 @@ You can click the Preview link to take a look at your changes.
       G.SKILL 32Gb of ram
       ~
       Gigabyte RX 7800 XT
-- 💻 The config of my Laptop (2023):
+- 💻 The config of my Laptop (2024):
+      Thinkpad T495
+      ~
+      AMD Ryzen 5 PRO 3500U
+      ~
+      In delivery
+- ~~💻~~ 🖥 The config of my ~~Laptop~~ Server (2024):
       Lenovo IdeaPad 3 14ALC6
       ~
       AMD Ryzen 7 5700U
