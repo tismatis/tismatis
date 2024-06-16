@@ -51,6 +51,6 @@ You can click the Preview link to take a look at your changes.
 - 📁 Where all my projects are:
       https://github.com/Matis-Projects
 - 🌍 My website (will be updated in not too long ^^):
-      https://tismatis.github.io
+      https://tismatis.fr/beta
 <!--- 📺 Twitch:
       https://twitch.tv/tismaproduction-->
