@@ -37,8 +37,8 @@ You can click the Preview link to take a look at your changes.
       ~
       AMD Ryzen 5 PRO 3500U
       ~
-      In delivery
-- ~~💻~~ 🖥 The config of my ~~Laptop~~ Server (2024):
+      12 of ram (2Gb reserved for apu)
+- 🖥 The config of my Server (2024):
       Lenovo IdeaPad 3 14ALC6
       ~
       AMD Ryzen 7 5700U
