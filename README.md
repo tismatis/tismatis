@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
       ~
       20Gb of ram (2Gb reserved for apu)
 - 🗣️ Discord: 
-      https://discord.gg/kBH52rF9Gg
+      https://discord.tismatis.fr / https://discord.gg/kBH52rF9Gg
 - ✉️ Telegram:
       Tismatis44
 - 📁 Where all my projects are:
