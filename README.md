@@ -50,7 +50,9 @@ You can click the Preview link to take a look at your changes.
       Tismatis44
 - 📁 Where all my projects are:
       https://github.com/Matis-Projects
-- 🌍 My website (will be updated in not too long ^^):
+- 🌍 My website:
       https://tismatis.fr/beta
+- 🌍 My own git instance:
+      https://git.tismatis.fr
 <!--- 📺 Twitch:
       https://twitch.tv/tismaproduction-->
