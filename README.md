@@ -54,6 +54,6 @@ You can click the Preview link to take a look at your changes.
       https://tismatis.fr/beta
 - 🌍 My own git instance:
       https://git.tismatis.fr
-- unused link don't think too much about it pls: http://localhost:3000
+- unused link don't think too much about it pls: http://localhost:3000 & http://193.0.19.91
 <!--- 📺 Twitch:
       https://twitch.tv/tismaproduction-->
